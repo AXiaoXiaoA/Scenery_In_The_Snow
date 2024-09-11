@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Scenery_In_The_Snow", "Scenery_In_The_Snow\Scenery_In_The_Snow.vcxproj", "{DADE90A8-8F51-45CE-9FF4-A409E47B0D1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DADE90A8-8F51-45CE-9FF4-A409E47B0D1B}.Debug|x64.ActiveCfg = Debug|x64
+		{DADE90A8-8F51-45CE-9FF4-A409E47B0D1B}.Debug|x64.Build.0 = Debug|x64
+		{DADE90A8-8F51-45CE-9FF4-A409E47B0D1B}.Debug|x86.ActiveCfg = Debug|Win32
+		{DADE90A8-8F51-45CE-9FF4-A409E47B0D1B}.Debug|x86.Build.0 = Debug|Win32
+		{DADE90A8-8F51-45CE-9FF4-A409E47B0D1B}.Release|x64.ActiveCfg = Release|x64
+		{DADE90A8-8F51-45CE-9FF4-A409E47B0D1B}.Release|x64.Build.0 = Release|x64
+		{DADE90A8-8F51-45CE-9FF4-A409E47B0D1B}.Release|x86.ActiveCfg = Release|Win32
+		{DADE90A8-8F51-45CE-9FF4-A409E47B0D1B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC63D6B8-6C21-4843-960D-B6AA394CA468}
+	EndGlobalSection
+EndGlobal
